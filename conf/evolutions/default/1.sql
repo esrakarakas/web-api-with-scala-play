@@ -9,7 +9,3 @@ CREATE TABLE person (
     phone2 varchar(255),
     PRIMARY KEY (id)
 );
-
-# !Downs
-DROP TABLE person;
-
