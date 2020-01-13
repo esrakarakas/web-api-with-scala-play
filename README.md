@@ -18,7 +18,7 @@ application using:
 ... and you would see an empty json list.
 
 ### Test
-* open terminal and execute this comment 
+* open terminal and execute this command
   * curl   http://localhost:9000/contacts   --header "Content-type: application/json"   --request POST   --data '{"name": "example", "lastName": "example", "phone1": "example"}' 
   * curl   http://localhost:9000/
   * or open `http://localhost:9000` in your browser and you would see json list.
