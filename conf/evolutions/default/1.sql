@@ -11,5 +11,5 @@ CREATE TABLE person (
 );
 
 # !Downs
-DROP TABLE person
+DROP TABLE person;
 
