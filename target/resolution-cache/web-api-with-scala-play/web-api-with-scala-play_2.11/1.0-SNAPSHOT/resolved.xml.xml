@@ -4,7 +4,7 @@
 		module="web-api-with-scala-play_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20200113165137"
+		publication="20200113172132"
 	>
 		<description>
 		web-api-with-scala-play

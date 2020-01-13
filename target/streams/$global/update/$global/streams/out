@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/esra/golang/src/github.com/kocaKafaliEsra/}root...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/}root...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.6 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.6 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26c2233[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7686d0ef[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.6[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.6 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.6] org.scala-lang#scala-library;2.11.6[0m
@@ -704,7 +704,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: commons-logging#commons-logging;1.1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/commons-logging/commons-logging/1.1.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for commons-logging#commons-logging;1.1.1[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/commons-logging/commons-logging/1.1.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/commons-logging/commons-logging/1.1.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for commons-logging#commons-logging;1.1.1[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for commons-logging#commons-logging;1.1.1[0m
@@ -713,14 +713,14 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] commons-logging#commons-logging;1.1.1!commons-logging.pom(pom.original) (333ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] commons-logging#commons-logging;1.1.1!commons-logging.pom(pom.original) (327ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;5 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;5 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;5 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.commons#commons-parent;5 {}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.commons/commons-parent/5/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.commons#commons-parent;5[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.commons/commons-parent/5/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.commons/commons-parent/5/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.commons#commons-parent;5[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.commons#commons-parent;5[0m
@@ -729,12 +729,12 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-parent;5!commons-parent.pom(pom.original) (246ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-parent;5!commons-parent.pom(pom.original) (260ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;4 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;4[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.commons/commons-parent/5/jars/commons-parent.jar[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.commons/commons-parent/5/jars/commons-parent.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.commons/commons-parent/5/jars/commons-parent.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/releases/org/apache/commons/commons-parent/5/commons-parent-5.jar[0m
@@ -2266,7 +2266,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.httpcomponents#httpclient;4.3.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpclient/4.3.4/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.httpcomponents#httpclient;4.3.4[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpclient/4.3.4/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpclient/4.3.4/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.httpcomponents#httpclient;4.3.4[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.httpcomponents#httpclient;4.3.4[0m
@@ -2275,14 +2275,14 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.3.4!httpclient.pom(pom.original) (247ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.3.4!httpclient.pom(pom.original) (267ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-client;4.3.4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-client;4.3.4 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-client;4.3.4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-client;4.3.4 {}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcomponents-client/4.3.4/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.httpcomponents#httpcomponents-client;4.3.4[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcomponents-client/4.3.4/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcomponents-client/4.3.4/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.httpcomponents#httpcomponents-client;4.3.4[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.httpcomponents#httpcomponents-client;4.3.4[0m
@@ -2291,12 +2291,12 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-client;4.3.4!httpcomponents-client.pom(pom.original) (227ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-client;4.3.4!httpcomponents-client.pom(pom.original) (283ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#project;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#project;7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.httpcomponents#project;7[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcomponents-client/4.3.4/jars/httpcomponents-client.jar[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcomponents-client/4.3.4/jars/httpcomponents-client.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcomponents-client/4.3.4/jars/httpcomponents-client.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/releases/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.jar[0m
@@ -2348,7 +2348,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.httpcomponents#httpcore;4.3.2 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcore/4.3.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.httpcomponents#httpcore;4.3.2[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcore/4.3.2/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcore/4.3.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.httpcomponents#httpcore;4.3.2[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.httpcomponents#httpcore;4.3.2[0m
@@ -2357,14 +2357,14 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.3.2!httpcore.pom(pom.original) (225ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.3.2!httpcore.pom(pom.original) (217ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-core;4.3.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-core;4.3.2 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-core;4.3.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-core;4.3.2 {}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcomponents-core/4.3.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.httpcomponents#httpcomponents-core;4.3.2[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcomponents-core/4.3.2/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcomponents-core/4.3.2/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.httpcomponents#httpcomponents-core;4.3.2[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.httpcomponents#httpcomponents-core;4.3.2[0m
@@ -2373,12 +2373,12 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-core;4.3.2!httpcomponents-core.pom(pom.original) (254ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-core;4.3.2!httpcomponents-core.pom(pom.original) (243ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#project;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#project;7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.httpcomponents#project;7[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcomponents-core/4.3.2/jars/httpcomponents-core.jar[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcomponents-core/4.3.2/jars/httpcomponents-core.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcomponents-core/4.3.2/jars/httpcomponents-core.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/releases/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.jar[0m
@@ -2494,7 +2494,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.commons#commons-exec;1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.commons/commons-exec/1.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.commons#commons-exec;1.1[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.commons/commons-exec/1.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.commons/commons-exec/1.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.commons#commons-exec;1.1[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.commons#commons-exec;1.1[0m
@@ -2503,7 +2503,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-exec;1.1!commons-exec.pom(pom.original) (222ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-exec;1.1!commons-exec.pom(pom.original) (242ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;17 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;17 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.commons#commons-parent;17[0m
@@ -2575,7 +2575,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: xalan#xalan;2.7.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/xalan/xalan/2.7.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for xalan#xalan;2.7.1[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/xalan/xalan/2.7.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/xalan/xalan/2.7.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for xalan#xalan;2.7.1[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for xalan#xalan;2.7.1[0m
@@ -2584,7 +2584,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#xalan;2.7.1!xalan.pom(pom.original) (247ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#xalan;2.7.1!xalan.pom(pom.original) (256ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;4 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;4[0m
@@ -2606,7 +2606,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: xalan#serializer;2.7.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/xalan/serializer/2.7.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for xalan#serializer;2.7.1[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/xalan/serializer/2.7.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/xalan/serializer/2.7.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for xalan#serializer;2.7.1[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for xalan#serializer;2.7.1[0m
@@ -2615,7 +2615,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#serializer;2.7.1!serializer.pom(pom.original) (218ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#serializer;2.7.1!serializer.pom(pom.original) (245ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;4 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;4[0m
@@ -2650,7 +2650,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: commons-collections#commons-collections;3.2.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/commons-collections/commons-collections/3.2.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for commons-collections#commons-collections;3.2.1[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/commons-collections/commons-collections/3.2.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/commons-collections/commons-collections/3.2.1/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for commons-collections#commons-collections;3.2.1[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for commons-collections#commons-collections;3.2.1[0m
@@ -2659,14 +2659,14 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] commons-collections#commons-collections;3.2.1!commons-collections.pom(pom.original) (241ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] commons-collections#commons-collections;3.2.1!commons-collections.pom(pom.original) (311ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;9 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;9 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;9 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.commons#commons-parent;9 {}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.commons/commons-parent/9/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.commons#commons-parent;9[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.commons/commons-parent/9/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.commons/commons-parent/9/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.commons#commons-parent;9[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.commons#commons-parent;9[0m
@@ -2675,12 +2675,12 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-parent;9!commons-parent.pom(pom.original) (243ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-parent;9!commons-parent.pom(pom.original) (533ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;4 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;4[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.commons/commons-parent/9/jars/commons-parent.jar[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.commons/commons-parent/9/jars/commons-parent.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.commons/commons-parent/9/jars/commons-parent.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/releases/org/apache/commons/commons-parent/9/commons-parent-9.jar[0m
@@ -2728,7 +2728,7 @@
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.httpcomponents#httpmime;4.3.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpmime/4.3.3/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.httpcomponents#httpmime;4.3.3[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpmime/4.3.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpmime/4.3.3/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.httpcomponents#httpmime;4.3.3[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.httpcomponents#httpmime;4.3.3[0m
@@ -2737,14 +2737,14 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpmime;4.3.3!httpmime.pom(pom.original) (211ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpmime;4.3.3!httpmime.pom(pom.original) (290ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-client;4.3.3 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-client;4.3.3 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-client;4.3.3 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-client;4.3.3 {}[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcomponents-client/4.3.3/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	local: no ivy file found for org.apache.httpcomponents#httpcomponents-client;4.3.3[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcomponents-client/4.3.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcomponents-client/4.3.3/ivys/ivy.xml[0m
 [0m[[0mdebug[0m] [0m	activator-launcher-local: no ivy file found for org.apache.httpcomponents#httpcomponents-client;4.3.3[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: found md file for org.apache.httpcomponents#httpcomponents-client;4.3.3[0m
@@ -2753,12 +2753,12 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-client;4.3.3!httpcomponents-client.pom(pom.original) (230ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-client;4.3.3!httpcomponents-client.pom(pom.original) (214ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#project;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#project;7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.httpcomponents#project;7[0m
 [0m[[0mdebug[0m] [0m		tried /home/esra/.ivy2/local/org.apache.httpcomponents/httpcomponents-client/4.3.3/jars/httpcomponents-client.jar[0m
-[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/kocaKafaliEsra/repository/org.apache.httpcomponents/httpcomponents-client/4.3.3/jars/httpcomponents-client.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/repository/org.apache.httpcomponents/httpcomponents-client/4.3.3/jars/httpcomponents-client.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.jar[0m
 [0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/releases/org/apache/httpcomponents/httpcomponents-client/4.3.3/httpcomponents-client-4.3.3.jar[0m
@@ -6912,19 +6912,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 15527ms :: artifacts dl 56ms[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT compile produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT runtime produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT test produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT provided produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT optional produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT compile-internal produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT runtime-internal produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT test-internal produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT plugin produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT sources produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT docs produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT pom produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT scala-tool produced in /home/esra/golang/src/github.com/kocaKafaliEsra/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (15527ms resolve - 56ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 15914ms :: artifacts dl 124ms[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT compile produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT runtime produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT test produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT provided produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT optional produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT compile-internal produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT runtime-internal produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT test-internal produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT plugin produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT sources produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT docs produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT pom produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for web-api-with-scala-play#web-api-with-scala-play_2.11;1.0-SNAPSHOT scala-tool produced in /home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/target/resolution-cache/reports/web-api-with-scala-play-web-api-with-scala-play_2.11-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (15914ms resolve - 124ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -1,6 +1,6 @@
-# Countries schema
+# Person schema
 
-# --- !Ups
+# !Ups
 CREATE TABLE person (
     id int(20) AUTO_INCREMENT,
     name varchar(255),
@@ -10,6 +10,6 @@ CREATE TABLE person (
     PRIMARY KEY (id)
 );
 
-# --- !Downs
+# !Downs
 DROP TABLE person
 

@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/esra/golang/src/github.com/kocaKafaliEsra/conf/routes
-// @DATE:Mon Jan 13 16:51:58 EET 2020
+// @SOURCE:/home/esra/golang/src/github.com/esrakarakas/web-api-with-scala-play/conf/routes
+// @DATE:Mon Jan 13 17:15:16 EET 2020
 
 package controllers;
 
